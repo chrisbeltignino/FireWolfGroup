@@ -1,0 +1,12 @@
+C:\Users\assas\OneDrive\Escritorio\.NET\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\assas\OneDrive\Escritorio\.NET\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\assas\OneDrive\Escritorio\.NET\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\assas\OneDrive\Escritorio\.NET\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.xml
+C:\Users\assas\OneDrive\Escritorio\.NET\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.vbprojAssemblyReference.cache
+C:\Users\assas\OneDrive\Escritorio\.NET\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+C:\Users\assas\OneDrive\Escritorio\.NET\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Resources.resources
+C:\Users\assas\OneDrive\Escritorio\.NET\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.vbproj.GenerateResource.cache
+C:\Users\assas\OneDrive\Escritorio\.NET\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.vbproj.CoreCompileInputs.cache
+C:\Users\assas\OneDrive\Escritorio\.NET\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\assas\OneDrive\Escritorio\.NET\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.xml
+C:\Users\assas\OneDrive\Escritorio\.NET\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb

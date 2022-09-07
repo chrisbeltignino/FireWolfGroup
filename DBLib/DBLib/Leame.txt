@@ -1,0 +1,7 @@
+Este programa muestra como se puede manejar la clase "datos" que tiene funciones para genear ABM sencillos en forma "automática". Este programa tiene una estructura de prueba como para que se vea como se maneja, pero antes de ejecutarlo deberán amoldarlo a la de vuestra base de datos.
+
+También se pueden bajar de la web del programador un generador dinámico de clases que trabaja en "unión" con éste programa (uno genera las clases según las estructuras de las tablas y el otro crea los ABM dejándo sólo el tema de pantallas).
+
+Si quieres el generador pueden bajarlo de la web del programador o solicitármelo a visualman2001@hotmail.com.
+
+De momento el programa sólo funciona con base de datos de SQL Server, pero para modificarlo sólo hay que cambiar las referencia de SQL a las de OLE DB, ODBC o la que sea necesario (el prgorama funciona igual ya que utiliza "reflection").

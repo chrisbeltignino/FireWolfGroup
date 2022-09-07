@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DBLib", "DBLib.vbproj", "{CF015462-E28C-4F45-860A-B807B6004DE0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CF015462-E28C-4F45-860A-B807B6004DE0}.Debug.ActiveCfg = Debug|.NET
+		{CF015462-E28C-4F45-860A-B807B6004DE0}.Debug.Build.0 = Debug|.NET
+		{CF015462-E28C-4F45-860A-B807B6004DE0}.Release.ActiveCfg = Release|.NET
+		{CF015462-E28C-4F45-860A-B807B6004DE0}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
